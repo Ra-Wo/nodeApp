@@ -12,7 +12,7 @@
     "delay": "2"
   },
   "scripts": {
-    "start": "nodemon"
+    "start": "node index.js"
   },
   "author": "Rasheed Wadosh",
   "license": "ISC",
